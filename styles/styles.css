@@ -1,0 +1,22 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: rgb(126, 216, 126);
+}
+
+ul li {
+    color: green;
+}
+
+p {
+    color: white;
+    font-size: large;
+}
+
+.list {
+    background-color: rgb(126, 216, 126);
+}
