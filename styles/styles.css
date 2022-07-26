@@ -17,8 +17,9 @@ ul li {
 
 p {
     color: white;
-    font-size: large;
+    font-size: 30px;
     text-align: left;
+    font-weight: bold;
 }
 
 .list {
